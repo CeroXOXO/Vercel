@@ -1,0 +1,44 @@
+/* Body */
+body {
+  background-color: #E6E6FA; /* lavender */
+  color: #333;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+/* Navbar */
+.navbar-custom {
+  background-color: #E6E6FA; /* lavender */
+}
+
+.navbar-custom .nav-link,
+.navbar-custom .navbar-brand {
+  color: #4B0082 !important; /* deep purple text */
+}
+
+.navbar-custom .nav-link:hover {
+  color: #000 !important;
+}
+
+/* Footer */
+footer {
+  background-color: #F8F8FF; /* white pearl */
+  color: #D8BFD8;
+}
+
+/* Card Styling */
+.card {
+  background-color: #F8F8FF; /* white pearl */
+  border: none;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+}
+
+/* Button Styling */
+.btn-lavender {
+  background-color: #D8BFD8; /* thistle/lavender pink */
+  color: white;
+  border: none;
+}
+
+.btn-lavender:hover {
+  background-color: #C8A2C8; /* deeper lavender */
+}
